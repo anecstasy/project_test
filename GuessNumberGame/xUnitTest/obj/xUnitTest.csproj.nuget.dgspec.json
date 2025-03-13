@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\домаха\\4 курс\\Тестування ПЗ\\project_test\\project_test\\GuessNumberGame\\xUnitTest\\xUnitTest.csproj": {}
+  },
+  "projects": {
+    "D:\\домаха\\4 курс\\Тестування ПЗ\\project_test\\project_test\\GuessNumberGame\\GuessNumberGame\\GuessNumberGame.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\домаха\\4 курс\\Тестування ПЗ\\project_test\\project_test\\GuessNumberGame\\GuessNumberGame\\GuessNumberGame.csproj",
+        "projectName": "GuessNumberGame",
+        "projectPath": "D:\\домаха\\4 курс\\Тестування ПЗ\\project_test\\project_test\\GuessNumberGame\\GuessNumberGame\\GuessNumberGame.csproj",
+        "packagesPath": "C:\\Users\\Anastasiia\\.nuget\\packages\\",
+        "outputPath": "D:\\домаха\\4 курс\\Тестування ПЗ\\project_test\\project_test\\GuessNumberGame\\GuessNumberGame\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Anastasiia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\домаха\\4 курс\\Тестування ПЗ\\project_test\\project_test\\GuessNumberGame\\xUnitTest\\xUnitTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\домаха\\4 курс\\Тестування ПЗ\\project_test\\project_test\\GuessNumberGame\\xUnitTest\\xUnitTest.csproj",
+        "projectName": "xUnitTest",
+        "projectPath": "D:\\домаха\\4 курс\\Тестування ПЗ\\project_test\\project_test\\GuessNumberGame\\xUnitTest\\xUnitTest.csproj",
+        "packagesPath": "C:\\Users\\Anastasiia\\.nuget\\packages\\",
+        "outputPath": "D:\\домаха\\4 курс\\Тестування ПЗ\\project_test\\project_test\\GuessNumberGame\\xUnitTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Anastasiia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\домаха\\4 курс\\Тестування ПЗ\\project_test\\project_test\\GuessNumberGame\\GuessNumberGame\\GuessNumberGame.csproj": {
+                "projectPath": "D:\\домаха\\4 курс\\Тестування ПЗ\\project_test\\project_test\\GuessNumberGame\\GuessNumberGame\\GuessNumberGame.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

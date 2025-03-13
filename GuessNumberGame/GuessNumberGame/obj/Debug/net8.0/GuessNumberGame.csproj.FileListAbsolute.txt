@@ -1,0 +1,15 @@
+D:\домаха\4 курс\Тестування ПЗ\project_test\project_test\GuessNumberGame\GuessNumberGame\bin\Debug\net8.0\GuessNumberGame.exe
+D:\домаха\4 курс\Тестування ПЗ\project_test\project_test\GuessNumberGame\GuessNumberGame\bin\Debug\net8.0\GuessNumberGame.deps.json
+D:\домаха\4 курс\Тестування ПЗ\project_test\project_test\GuessNumberGame\GuessNumberGame\bin\Debug\net8.0\GuessNumberGame.runtimeconfig.json
+D:\домаха\4 курс\Тестування ПЗ\project_test\project_test\GuessNumberGame\GuessNumberGame\bin\Debug\net8.0\GuessNumberGame.dll
+D:\домаха\4 курс\Тестування ПЗ\project_test\project_test\GuessNumberGame\GuessNumberGame\bin\Debug\net8.0\GuessNumberGame.pdb
+D:\домаха\4 курс\Тестування ПЗ\project_test\project_test\GuessNumberGame\GuessNumberGame\obj\Debug\net8.0\GuessNumberGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\домаха\4 курс\Тестування ПЗ\project_test\project_test\GuessNumberGame\GuessNumberGame\obj\Debug\net8.0\GuessNumberGame.AssemblyInfoInputs.cache
+D:\домаха\4 курс\Тестування ПЗ\project_test\project_test\GuessNumberGame\GuessNumberGame\obj\Debug\net8.0\GuessNumberGame.AssemblyInfo.cs
+D:\домаха\4 курс\Тестування ПЗ\project_test\project_test\GuessNumberGame\GuessNumberGame\obj\Debug\net8.0\GuessNumberGame.csproj.CoreCompileInputs.cache
+D:\домаха\4 курс\Тестування ПЗ\project_test\project_test\GuessNumberGame\GuessNumberGame\obj\Debug\net8.0\GuessNumberGame.sourcelink.json
+D:\домаха\4 курс\Тестування ПЗ\project_test\project_test\GuessNumberGame\GuessNumberGame\obj\Debug\net8.0\GuessNumberGame.dll
+D:\домаха\4 курс\Тестування ПЗ\project_test\project_test\GuessNumberGame\GuessNumberGame\obj\Debug\net8.0\refint\GuessNumberGame.dll
+D:\домаха\4 курс\Тестування ПЗ\project_test\project_test\GuessNumberGame\GuessNumberGame\obj\Debug\net8.0\GuessNumberGame.pdb
+D:\домаха\4 курс\Тестування ПЗ\project_test\project_test\GuessNumberGame\GuessNumberGame\obj\Debug\net8.0\GuessNumberGame.genruntimeconfig.cache
+D:\домаха\4 курс\Тестування ПЗ\project_test\project_test\GuessNumberGame\GuessNumberGame\obj\Debug\net8.0\ref\GuessNumberGame.dll
